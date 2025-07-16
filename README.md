@@ -22,7 +22,7 @@ The goal is to simulate real-world cloud infrastructure for hosting modern, scal
 
 ---
 
-## ❓ Why 3-Tier Architecture
+##  Why 3-Tier Architecture
 
 The **3-tier architecture** offers modularity, scalability, and security by separating the application into three distinct functional layers:
 
